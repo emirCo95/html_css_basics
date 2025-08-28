@@ -5,13 +5,13 @@
 }
 body {
   background-color: #f2e9fe;
+  font-family: sans-serif;
 }
 
 #title {
   text-align: center;
   color: #5830c5;
   font-size: 58px;
-  font-family: sans-serif;
   font-weight: bold;
   margin-top: 20px;
 }
@@ -22,4 +22,18 @@ img {
   display: block;
   margin: auto;
   margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+main {
+  width: 800px;
+  margin: auto;
+  background-color: #5830c5;
+}
+
+h2 {
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  font-weight: bold;
 }
