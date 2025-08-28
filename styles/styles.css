@@ -26,9 +26,10 @@ img {
 }
 
 main {
-  width: 800px;
+  width: 1000px;
   margin: auto;
   background-color: #5830c5;
+  border-radius: 10px;
 }
 
 h2 {
